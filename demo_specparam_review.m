@@ -1,4 +1,4 @@
-%% demo script for fooof algorhythm 
+%% demo script for specparam algorhythm 
 % adapted from fieltrip site:
 % https://www.fieldtriptoolbox.org/example/spectral/fooof/ 
 
